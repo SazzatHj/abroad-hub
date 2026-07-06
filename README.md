@@ -8,7 +8,7 @@ Each file serves as an individual roadmap and tracker for specific areas:
 
 *   🗺️ **[Global Career Roadmap](./global-career-roadmap.md)**
     *Overall career planning and roadmap.*
-*   📚 **[Study & Work Abroad Resources](./study-work-abroad-resources.md)**
+*   📚 **[Work & PR Resources](./work-and-pr-resources.md)**
     *Essential resource links for studying and working in different countries.*
 *   🎯 **[Abroad Aspiration Tracker](./abroad-aspiration-tracker.md)**
     *My personal progress and goal tracker.*
