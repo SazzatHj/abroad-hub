@@ -7,6 +7,7 @@ Here is a curated list of official government portals for work permits, visas, a
 ## 🇪🇺 Europe (Schengen / European Union)
 
 *   🇮🇪 **Ireland:** [Department of Enterprise, Trade and Employment](https://enterprise.gov.ie/en/?)
+    - Connecting Employers and Jobseekers [JobsIreland](https://jobsireland.ie/)
 *   🇩🇪 **Germany:** [Make it in Germany - Official Portal for Qualified Professionals](https://www.make-it-in-germany.com/en/)
 *   🇳🇱 **Netherlands:** [IND - Immigration and Naturalisation Service](https://ind.nl/en)
 *   🇸🇪 **Sweden:** [Swedish Migration Agency (Migrationsverket)](https://www.migrationsverket.se/English/Private-individuals/Working-in-Sweden.html)
