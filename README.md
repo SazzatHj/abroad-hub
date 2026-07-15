@@ -20,4 +20,5 @@ Each file serves as an individual roadmap and tracker for specific areas:
     *List of universities, official government websites, and required documents.*
 
 ---
+
 > 💡 **Note:** The primary objective of this repository is to centralize all necessary information for quick and easy access at any time.
