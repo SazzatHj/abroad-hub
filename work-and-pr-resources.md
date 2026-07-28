@@ -26,6 +26,7 @@ Here is a curated list of official government portals for work permits, visas, a
 
 *   🇦🇺 **Australia:** [Department of Home Affairs - Visa and Immigration](https://immi.homeaffairs.gov.au/)
     - Working in Australia: If you want to come to Australia to work, you will need a visa that suits the work you intend to do [Visa and Work in Australia](https://immi.homeaffairs.gov.au/visas/working-in-australia)
+    - As Bangladesh's need [Temporary work visas](https://immi.homeaffairs.gov.au/visas/working-in-australia/temporary-work-visas)
 *   🇦🇺 **Australia SkillSelect:** [SkillSelect Points-Based Immigration Portal](https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect)
 *   🇳🇿 **New Zealand:** [Immigration New Zealand](https://www.immigration.govt.nz/)
 
