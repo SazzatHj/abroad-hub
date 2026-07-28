@@ -24,7 +24,7 @@ Here is a curated list of official government portals for work permits, visas, a
 
 ## 🇦🇺 Oceania
 
-*   🇦🇺 **Australia:** [Department of Home Affairs - Visa and Immigration](https://immi.homeaffairs.gov.au/)
+*   🇦🇺 **Australia:** [Department of Home Affairs - Visa and Immigration](https://immi.homeaffairs.gov.au/) 
 *   🇦🇺 **Australia SkillSelect:** [SkillSelect Points-Based Immigration Portal](https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect)
 *   🇳🇿 **New Zealand:** [Immigration New Zealand](https://www.immigration.govt.nz/)
 
