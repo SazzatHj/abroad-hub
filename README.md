@@ -2,7 +2,7 @@
 
 All information and resources regarding my higher education, scholarships, jobs, and Permanent Residency (PR) preparation are organized here in dedicated files.
 
-## 📍 Main Sections (Click to Navigate)
+## 📍 Main Sections (Click to Navigate) 
 
 Each file serves as an individual roadmap and tracker for specific areas:
 
